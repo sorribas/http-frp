@@ -5,10 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "highland": "^2.5.1",
-    "level": "^1.3.0",
     "through2": "^2.0.0",
-    "pump": "^1.0.0",
-    "JSONStream": "^1.0.4"
   },
   "devDependencies": {},
   "scripts": {
