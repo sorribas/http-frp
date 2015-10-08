@@ -1,0 +1,27 @@
+{
+  "name": "http-frp",
+  "version": "0.0.0",
+  "description": "Write HTTP servers with functional reactive programming.",
+  "main": "index.js",
+  "dependencies": {
+    "highland": "^2.5.1",
+    "level": "^1.3.0",
+    "through2": "^2.0.0",
+    "pump": "^1.0.0",
+    "JSONStream": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "babel-node test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sorribas/http-frp.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sorribas/http-frp/issues"
+  },
+  "homepage": "https://github.com/sorribas/http-frp#readme"
+}
